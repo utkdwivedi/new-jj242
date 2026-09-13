@@ -5,7 +5,7 @@ import '@/styles/globals.css';
 export const metadata: Metadata = {
   title: 'Portfolio — Software Engineer',
   description:
-    'Cinematic portfolio showcasing precision-engineered digital experiences. Every pixel measured. Every frame rendered at speed.',
+    'portfolio showcasing precision-engineered digital experiences. Every pixel measured. Every frame rendered at speed.',
 };
 
 export default function RootLayout({
