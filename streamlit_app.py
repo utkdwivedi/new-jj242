@@ -1,4 +1,4 @@
-# APP – Streamlit Demo App
+# APP – Streamlit Demo App version 1
 
 # app/streamlit_app.py
 import streamlit as st
