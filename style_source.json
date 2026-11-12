@@ -1,0 +1,171 @@
+{
+  "input": "C:\\Users\\Lenovo\\Documents\\Codex\\2026-06-30\\documents-plugin-documents-openai-primary-runtime-2\\work\\phd_report22_source.docx",
+  "fonts_by_char_count": {
+    "Times New Roman": 54069,
+    "Cambria Math": 14
+  },
+  "direct_run_formatting_runs": 1117,
+  "direct_paragraph_formatting_paragraphs": 465,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "INTERN PROJECT REPORT",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "A PHYSICS-BASED SYNTHETIC DATA GENERATION FRAMEWORK FOR TERMINAL BALLISTICS",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "Utkarsh Dwivedi",
+      "style": "Normal"
+    },
+    {
+      "para_index": 12,
+      "text": "Under the Guidance of",
+      "style": "Normal"
+    },
+    {
+      "para_index": 17,
+      "text": "Candidate's Declaration",
+      "style": "Normal"
+    },
+    {
+      "para_index": 23,
+      "text": "Utkarsh Dwivedi\nDate: ___________",
+      "style": "Normal"
+    },
+    {
+      "para_index": 27,
+      "text": "CERTIFICATE OF INTERNSHIP COMPLETION",
+      "style": "Normal"
+    },
+    {
+      "para_index": 46,
+      "text": "Introduction\t4",
+      "style": "Normal"
+    },
+    {
+      "para_index": 69,
+      "text": "Implementation Architecture\t14",
+      "style": "Normal"
+    },
+    {
+      "para_index": 75,
+      "text": "PINN-Ready Architecture and Explicit Residuals\t16",
+      "style": "Normal"
+    },
+    {
+      "para_index": 80,
+      "text": "Results and Discussion\t18",
+      "style": "Normal"
+    },
+    {
+      "para_index": 85,
+      "text": "Conclusion and Future Work\t24",
+      "style": "Normal"
+    },
+    {
+      "para_index": 88,
+      "text": "Supplemental Information\t27",
+      "style": "Normal"
+    },
+    {
+      "para_index": 117,
+      "text": "Chapter 1",
+      "style": "Normal"
+    },
+    {
+      "para_index": 145,
+      "text": "Chapter 2",
+      "style": "Normal"
+    },
+    {
+      "para_index": 162,
+      "text": "Chapter 3",
+      "style": "Normal"
+    },
+    {
+      "para_index": 207,
+      "text": "Thickness: 5mm to 50mm (uniform projection)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 209,
+      "text": "Obliquity: 0\u00b0 to 60\u00b0 (uniform angular probability)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 217,
+      "text": "Strain Domain: Transformed utilizing the ln(1 + \u03b5) natural log boundary to",
+      "style": "Normal"
+    },
+    {
+      "para_index": 232,
+      "text": "Chapter 4",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "INTERN PROJECT REPORT",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "on",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "A PHYSICS-BASED SYNTHETIC DATA GENERATION FRAMEWORK FOR TERMINAL BALLISTICS",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "INTERN PROJECT REPORT",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "on",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "A PHYSICS-BASED SYNTHETIC DATA GENERATION FRAMEWORK FOR TERMINAL",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "BALLISTICS",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
