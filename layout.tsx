@@ -25,7 +25,7 @@ export default function RootLayout({
       </head>
       <body>
         <LenisProvider>
-          {/* Global Noise Overlay */}
+          {/* Global- Noise Overlay */}
           <div className="noise-overlay" aria-hidden="true" />
           {children}
         </LenisProvider>
